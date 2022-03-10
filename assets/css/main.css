@@ -1,0 +1,21 @@
+body {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#btn-usuario {
+    width: 65px;
+    height: 40px;
+    background-color: #3d505d;
+    border-radius: 10%;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.bg-dark {
+    background-color: #1e2a32 !important;
+}
